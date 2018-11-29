@@ -1,0 +1,1 @@
+gcc -O3 -o raytrace main.cpp bunny.cpp triangle.cpp GeometricModel.cpp OBJLoader.cpp plan.cpp sphere.cpp phong.cpp image.cpp png/lodepng.cpp camera.cpp scene.cpp material.cpp rayon.cpp light.cpp intersection.cpp -lstdc++ -lm
